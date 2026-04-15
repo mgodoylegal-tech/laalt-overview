@@ -16,9 +16,9 @@
   <rect x="110" y="118" width="188" height="34" rx="17" fill="#1f1b38" stroke="#5b4d8f"/>
   <text x="130" y="140" fill="#c4b5fd" font-size="18" font-family="Space Grotesk, Arial, sans-serif">CONTEXTO PUBLICO</text>
   <text x="110" y="220" fill="#f8fbff" font-size="58" font-weight="700" font-family="Space Grotesk, Arial, sans-serif">LAALT Overview</text>
-  <text x="110" y="286" fill="#e2e8f8" font-size="31" font-family="Space Grotesk, Arial, sans-serif">Una arquitectura publica para mostrar criterio sin regalar metodo.</text>
+  <text x="110" y="286" fill="#e2e8f8" font-size="31" font-family="Space Grotesk, Arial, sans-serif">Una arquitectura publica clara, ordenada y consistente.</text>
   <text x="110" y="350" fill="#98a6bf" font-size="24" font-family="Space Grotesk, Arial, sans-serif">Puerta de entrada al ecosistema con dashboard interactivo,</text>
-  <text x="110" y="386" fill="#98a6bf" font-size="24" font-family="Space Grotesk, Arial, sans-serif">contexto y separacion clara entre lo publico y lo privado.</text>
+  <text x="110" y="386" fill="#98a6bf" font-size="24" font-family="Space Grotesk, Arial, sans-serif">contexto y mapa general de las capas visibles del ecosistema.</text>
   <rect x="110" y="448" width="356" height="54" rx="14" fill="url(#glow)"/>
-  <text x="142" y="483" fill="#07201b" font-size="24" font-weight="700" font-family="Space Grotesk, Arial, sans-serif">Entry point principal del ecosistema</text>
+  <text x="142" y="483" fill="#07201b" font-size="24" font-weight="700" font-family="Space Grotesk, Arial, sans-serif">Entrada principal del ecosistema</text>
 </svg>

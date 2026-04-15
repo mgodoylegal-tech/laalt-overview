@@ -7,7 +7,7 @@
 - explicaciones conceptuales de alto nivel
 - framing profesional del rol legal-tecnico
 - arquitectura general del ecosistema
-- posicionamiento y narrativa de portfolio
+- narrativa publica general
 
 ## Solo puede quedar publico en forma resumida
 
@@ -29,6 +29,6 @@
 
 ## Regla editorial
 
-Si un contenido nuevo permite inferir como esta construido el core privado, no debe publicarse tal como esta.
+Si un contenido nuevo excede el alcance de la capa publica, no debe publicarse tal como esta.
 
-Primero se recorta. Si sigue siendo sensible, se elimina del perimetro publico.
+Primero se resume. Si sigue siendo demasiado extenso o especifico, conviene dejarlo fuera.

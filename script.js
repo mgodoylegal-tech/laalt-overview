@@ -2,16 +2,16 @@ const dashboardViews = {
   ecosystem: {
     stats: [
       { label: "Capas publicas", value: "3", sub: "Overview, Mini Lab Public y Auditor Guide Public" },
-      { label: "Capas privadas", value: "1", sub: "El core metodologico y operativo queda fuera del perimetro publico" },
-      { label: "Objetivo", value: "Portfolio", sub: "Mostrar criterio, claridad y arquitectura sin regalar propiedad intelectual" },
-      { label: "Principio", value: "Separar", sub: "Lo publico orienta; lo privado define y opera" },
+      { label: "Capas internas", value: "1", sub: "El sistema central se mantiene como una capa independiente" },
+      { label: "Enfoque", value: "Contexto", sub: "Mostrar criterio, claridad y arquitectura en una presencia publica ordenada" },
+      { label: "Principio", value: "Delimitar", sub: "Cada capa cumple una funcion distinta dentro del conjunto" },
     ],
     cards: [
       {
         badge: "Publico",
         badgeClass: "public",
         title: "LAALT Overview",
-        body: "Punto de entrada para entender el ecosistema, el problema que resuelve y por que existe una separacion deliberada entre capas publicas y privadas.",
+        body: "Punto de entrada para entender el ecosistema, el problema que resuelve y como se ordenan sus capas visibles.",
         bullets: [
           "Contexto general",
           "Mapa del ecosistema",
@@ -35,7 +35,7 @@ const dashboardViews = {
         badge: "Publico",
         badgeClass: "public",
         title: "LAALT Auditor Guide Public",
-        body: "Guia recortada para mostrar el tipo de pensamiento profesional detras de una auditoria legal-tecnica sin convertirlo en sede canonica.",
+        body: "Guia recortada para mostrar el tipo de pensamiento profesional que acompana una auditoria legal-tecnica.",
         bullets: [
           "Rol profesional",
           "Criterio de alto nivel",
@@ -44,10 +44,10 @@ const dashboardViews = {
         meta: ["Pedagogia", "Posicionamiento"],
       },
       {
-        badge: "Privado",
+        badge: "Interno",
         badgeClass: "private",
         title: "Core metodologico y operativo",
-        body: "La doctrina completa, la taxonomia, la matriz, el flujo canonico y la capa operativa viven fuera del perimetro publico.",
+        body: "La doctrina completa, la instrumentacion y la capa operativa se mantienen en un entorno de trabajo separado.",
         bullets: [
           "Metodo completo",
           "Instrumentacion privada",
@@ -61,15 +61,15 @@ const dashboardViews = {
     stats: [
       { label: "Puede quedar publico", value: "Alto nivel", sub: "Conceptos, demos, narrativa y arquitectura general" },
       { label: "Solo resumido", value: "Criterio", sub: "Lectura de hallazgos y ejemplos, siempre en forma recortada" },
-      { label: "No publicable", value: "Core", sub: "Taxonomia, matriz, flujo, plantillas, scoring y logica sensible" },
-      { label: "Riesgo principal", value: "Combinacion", sub: "Varios repos chicos pueden revelar demasiado si se pisan entre si" },
+      { label: "Alcance interno", value: "Nucleo", sub: "Taxonomia, matriz, flujo, plantillas, scoring y logica detallada" },
+      { label: "Criterio", value: "Coherencia", sub: "Cada repositorio debe sostener una funcion clara y complementaria" },
     ],
     cards: [
       {
         badge: "Control",
         badgeClass: "",
         title: "Lo que si conviene mostrar",
-        body: "Una presencia publica solida no requiere publicar el sistema entero. Requiere mostrar valor profesional visible.",
+        body: "Una presencia publica solida requiere mostrar valor visible, recorrido claro y buena organizacion del contenido.",
         bullets: [
           "Demos visuales acotadas",
           "Casos sinteticos",
@@ -82,7 +82,7 @@ const dashboardViews = {
         badge: "Control",
         badgeClass: "",
         title: "Lo que solo debe aparecer resumido",
-        body: "Criterios de lectura, impacto organizacional y relacion entre evidencia y decision pueden mostrarse, pero nunca como sistema completo.",
+        body: "Criterios de lectura, impacto organizacional y relacion entre evidencia y decision pueden mostrarse en una version breve e introductoria.",
         bullets: [
           "Criterios generales de lectura",
           "Relaciones entre hallazgo y decision",
@@ -91,10 +91,10 @@ const dashboardViews = {
         meta: ["Resumido"],
       },
       {
-        badge: "Bloqueado",
+        badge: "Interno",
         badgeClass: "private",
         title: "Lo que no debe publicarse",
-        body: "Cuando una pieza ayuda a reconstruir el core, deja de ser portfolio y pasa a ser fuga de metodo.",
+        body: "Los componentes de trabajo detallados deben mantenerse fuera de la capa publica para conservar un alcance claro.",
         bullets: [
           "Taxonomia completa",
           "Matriz completa",
@@ -108,45 +108,45 @@ const dashboardViews = {
   },
   audience: {
     stats: [
-      { label: "Reclutadores", value: "Claridad", sub: "Necesitan entender posicionamiento, criterio y madurez de producto" },
-      { label: "Clientes", value: "Confianza", sub: "Necesitan ver enfoque, lenguaje y valor sin entrar al sistema interno" },
-      { label: "Colaboradores", value: "Mapa", sub: "Necesitan entender donde termina lo publico y donde empieza lo privado" },
-      { label: "Resultado", value: "Coherencia", sub: "Cada repo cumple una funcion distinta y complementaria" },
+      { label: "Lenguaje", value: "Claro", sub: "Cada capa debe explicarse con un tono sobrio y directo" },
+      { label: "Recorrido", value: "Simple", sub: "El ecosistema debe poder leerse desde overview hacia demo y guia" },
+      { label: "Estructura", value: "Ordenada", sub: "Las piezas publicas deben complementarse sin superponerse" },
+      { label: "Resultado", value: "Coherencia", sub: "Cada repo cumple una funcion distinta dentro de una misma narrativa" },
     ],
     cards: [
       {
-        badge: "Audiencia",
+        badge: "Criterio",
         badgeClass: "",
-        title: "Para reclutadores",
-        body: "El ecosistema debe mostrar pensamiento estructurado, criterio de arquitectura de informacion y narrativa profesional consistente.",
+        title: "Lenguaje de presentacion",
+        body: "El ecosistema debe mostrar pensamiento estructurado, arquitectura de informacion y narrativa consistente en todas sus capas.",
         bullets: [
           "README claros",
           "Framing consistente",
           "Capas bien delimitadas",
         ],
-        meta: ["Portfolio"],
+        meta: ["Presentacion"],
       },
       {
-        badge: "Audiencia",
+        badge: "Criterio",
         badgeClass: "",
-        title: "Para clientes potenciales",
-        body: "La capa publica debe transmitir juicio profesional, no exponer activos internos ni invitar a inspeccionar el core.",
+        title: "Equilibrio de alcance",
+        body: "La capa publica debe transmitir juicio profesional y mantener una proporcion adecuada entre contexto, demo y guia.",
         bullets: [
           "Lenguaje serio",
           "Demos entendibles",
-          "Separacion publico / privado",
+          "Recorrido entre capas",
         ],
-        meta: ["Confianza"],
+        meta: ["Alcance"],
       },
       {
-        badge: "Audiencia",
+        badge: "Criterio",
         badgeClass: "",
-        title: "Para colaboradores",
-        body: "Lo publico tiene que orientar sobre el ecosistema sin convertirse en documentacion suficiente para reconstruir el metodo.",
+        title: "Gobernanza editorial",
+        body: "La capa publica tiene que orientar sobre el ecosistema sin perder claridad, tono ni delimitacion entre piezas.",
         bullets: [
           "Mapa conceptual",
           "Reglas de publicacion",
-          "Perimetro bien definido",
+          "Delimitacion de alcance",
         ],
         meta: ["Gobernanza editorial"],
       },

@@ -4,7 +4,7 @@
 
 Este repositorio funciona como punto de entrada publico para entender que problema aborda el ecosistema, como se relacionan sus capas y por que existe una separacion deliberada entre lo publico y lo privado.
 
-No es la sede canonica del metodo ni una documentacion completa del sistema interno. Su funcion es orientar, posicionar y dar contexto sin regalar propiedad intelectual ni exponer activos sensibles.
+Su funcion es orientar, ordenar el recorrido y dar contexto general sobre las capas visibles del ecosistema.
 
 ## Enlaces publicos
 
@@ -14,7 +14,7 @@ No es la sede canonica del metodo ni una documentacion completa del sistema inte
 
 ## Punto de entrada recomendado
 
-Si vas a compartir una sola URL del ecosistema en portfolio, LinkedIn o presentaciones, la recomendada es:
+Si vas a compartir una sola URL del ecosistema en una presentacion o referencia general, la recomendada es:
 
 - `https://mgodoylegal-tech.github.io/laalt-overview/`
 
@@ -29,7 +29,7 @@ Esa landing funciona como entrada principal porque:
 
 - el problema profesional que LAALT intenta resolver
 - la relacion entre demo visual, guia publica y capas privadas
-- el criterio general de separacion entre portfolio publico y metodo protegido
+- el criterio general de separacion entre capas publicas y capas internas
 - una arquitectura conceptual de alto nivel
 
 ## Que no explica
@@ -64,4 +64,4 @@ Este repo incluye workflow de GitHub Pages para desplegar el sitio estatico desd
 
 ## Politica publica
 
-La regla central de este overview es simple: debe explicar la arquitectura del ecosistema sin permitir reconstruir el metodo privado.
+La regla central de este overview es simple: debe explicar la arquitectura del ecosistema con claridad, sobriedad y alcance acotado.
