@@ -29,7 +29,7 @@ Lectura recomendada:
 
 ## Texto corto para compartir
 
-Comparto la capa publica del ecosistema LAALT: una arquitectura orientada a auditoria legal-tecnica de ciberseguridad, con una landing de contexto, una demo visual y una guia publica recortada.
+Comparto la capa publica del ecosistema LAALT: una arquitectura orientada a auditoria legal-tecnica de ciberseguridad, con una referencia de contexto, una demo visual y una guia publica recortada.
 
 URL principal:
 

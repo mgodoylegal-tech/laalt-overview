@@ -23,7 +23,7 @@ const dashboardViews = {
         badge: "Publico",
         badgeClass: "public",
         title: "LAALT Mini Lab Public",
-        body: "Showcase visual para leer prioridad, estado, owner y vencimiento sobre un dataset reducido y seguro.",
+        body: "Vista publica para leer prioridad, estado, owner y vencimiento sobre un dataset reducido y acotado.",
         bullets: [
           "Demo visual ejecutiva",
           "Seguimiento visible",
@@ -35,7 +35,7 @@ const dashboardViews = {
         badge: "Publico",
         badgeClass: "public",
         title: "LAALT Auditor Guide Public",
-        body: "Guia recortada para mostrar el tipo de pensamiento profesional que acompana una auditoria legal-tecnica.",
+        body: "Guia introductoria para mostrar el tipo de pensamiento profesional que acompana una auditoria legal-tecnica.",
         bullets: [
           "Rol profesional",
           "Criterio de alto nivel",

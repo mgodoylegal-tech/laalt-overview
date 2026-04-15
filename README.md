@@ -1,8 +1,8 @@
 ﻿# LAALT Overview
 
-> Capa publica de contexto general del ecosistema LAALT.
+> Referencia publica de contexto general del ecosistema LAALT.
 
-Este repositorio funciona como punto de entrada publico para entender que problema aborda el ecosistema, como se relacionan sus capas y por que existe una separacion deliberada entre lo publico y lo privado.
+Este repositorio funciona como punto de entrada publico para entender que problema aborda el ecosistema, como se relacionan sus capas y como se organiza su presencia visible.
 
 Su funcion es orientar, ordenar el recorrido y dar contexto general sobre las capas visibles del ecosistema.
 
@@ -18,7 +18,7 @@ Si vas a compartir una sola URL del ecosistema en una presentacion o referencia 
 
 - `https://mgodoylegal-tech.github.io/laalt-overview/`
 
-Esa landing funciona como entrada principal porque:
+Esa referencia funciona como entrada principal porque:
 
 - da contexto antes de abrir detalles
 - explica la arquitectura publica del ecosistema
@@ -45,9 +45,9 @@ Esa landing funciona como entrada principal porque:
 
 | Repositorio o capa | Funcion |
 | --- | --- |
-| `laalt-overview` | Contexto publico, mapa y posicionamiento |
-| `laalt-mini-lab-public` | Showcase visual y lectura ejecutiva |
-| `laalt-auditor-guide-public` | Guia publica recortada |
+| `laalt-overview` | Contexto publico y mapa general |
+| `laalt-mini-lab-public` | Vista publica y lectura ejecutiva |
+| `laalt-auditor-guide-public` | Guia publica introductoria |
 | `cyber-audit-core-lab` | Sistema central privado |
 
 ## Uso local
