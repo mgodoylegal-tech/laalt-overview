@@ -6,6 +6,12 @@ Este repositorio funciona como punto de entrada publico para entender que proble
 
 No es la sede canonica del metodo ni una documentacion completa del sistema interno. Su funcion es orientar, posicionar y dar contexto sin regalar propiedad intelectual ni exponer activos sensibles.
 
+## Enlaces publicos
+
+- Sitio: `https://mgodoylegal-tech.github.io/laalt-overview/`
+- Demo visual publica: `https://mgodoylegal-tech.github.io/laalt-mini-lab-public/`
+- Guia publica recortada: `https://mgodoylegal-tech.github.io/laalt-auditor-guide-public/`
+
 ## Que explica
 
 - el problema profesional que LAALT intenta resolver
@@ -38,6 +44,10 @@ Abrir `index.html` con Live Server o servir la carpeta como sitio estatico.
 ```bash
 npx serve .
 ```
+
+## Publicacion
+
+Este repo incluye workflow de GitHub Pages para desplegar el sitio estatico desde la rama `main`.
 
 ## Politica publica
 
