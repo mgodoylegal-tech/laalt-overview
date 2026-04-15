@@ -32,6 +32,12 @@ Esa referencia funciona como entrada principal porque:
 - el criterio general de separacion entre capas publicas y capas internas
 - una arquitectura conceptual de alto nivel
 
+## Que justifica este repo publicamente
+
+- ordenar el recorrido entre las otras capas
+- explicar por que no cumplen la misma funcion
+- dar una entrada clara al ecosistema sin depender de una sola pieza
+
 ## Que no explica
 
 - taxonomia canonica completa
