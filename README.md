@@ -12,6 +12,19 @@ No es la sede canonica del metodo ni una documentacion completa del sistema inte
 - Demo visual publica: `https://mgodoylegal-tech.github.io/laalt-mini-lab-public/`
 - Guia publica recortada: `https://mgodoylegal-tech.github.io/laalt-auditor-guide-public/`
 
+## Punto de entrada recomendado
+
+Si vas a compartir una sola URL del ecosistema en portfolio, LinkedIn o presentaciones, la recomendada es:
+
+- `https://mgodoylegal-tech.github.io/laalt-overview/`
+
+Esa landing funciona como entrada principal porque:
+
+- da contexto antes de abrir detalles
+- explica la arquitectura publica del ecosistema
+- enlaza a la demo visual y a la guia publica
+- evita que la primera impresion dependa de una sola capa
+
 ## Que explica
 
 - el problema profesional que LAALT intenta resolver
